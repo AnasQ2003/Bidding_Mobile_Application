@@ -2,7 +2,7 @@
 
 > An algorithmic game-theory simulation in Java where two automated bidders compete in a tactical auction to pull a bottle to their side of the board.
 
-🎬 **Watch the Demo Video — Bidding Application:** *(add your YouTube link here)*
+🎬 **Watch the Demo Video — Bidding Application:** *(https://youtu.be/jwHRJb5j3vk)*
 
 [![Java](https://img.shields.io/badge/Java-8-ED8B00.svg?style=flat-square&logo=openjdk)](https://www.java.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
@@ -156,19 +156,41 @@ cd Bidding_Application
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+```
+MIT License
+
+Copyright (c) Bidding Mobile Application ---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
 ## 👨‍💻 Author
 
 **Anas Ahmed Qureshi** — [@AnasQ2003](https://github.com/AnasQ2003)
-*TechNet Cloud — Java Development Coursework*
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ in Java</p>
 
-  **⭐ If you found this project helpful, please star the repository!**
+Built with ❤️ by **Anas**
+
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
 </div>
+
