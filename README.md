@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🍾 Bidding Game Challenge
 
 > An algorithmic game-theory simulation in Java where two automated bidders compete in a tactical auction to pull a bottle to their side of the board.
@@ -6,6 +8,8 @@
 
 [![Java](https://img.shields.io/badge/Java-8-ED8B00.svg?style=flat-square&logo=openjdk)](https://www.java.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+</div>
 
 ---
 
@@ -159,7 +163,7 @@ cd Bidding_Application
 ```
 MIT License
 
-Copyright (c) Bidding Mobile Application ---2026 AnasQ2003
+Copyright (c) Bidding Mobile Application --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
